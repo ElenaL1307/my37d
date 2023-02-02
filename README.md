@@ -1,1 +1,2 @@
 # my37d
+print
