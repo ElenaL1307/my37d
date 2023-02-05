@@ -1,7 +1,2 @@
 print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("world")
+print("have a nice day!")
